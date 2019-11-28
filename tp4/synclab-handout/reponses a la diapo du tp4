@@ -1,0 +1,4 @@
+Création d'un fil d'éxécution (démo)
+B) car on n'attend pas la fin du thread, alors il est impossibl de le prévoir
+et il se pourrait a cause de ca que x=0;
+
